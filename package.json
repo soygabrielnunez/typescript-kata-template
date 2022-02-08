@@ -4,7 +4,7 @@
   "description": "the goal of this project is to provide a template for a typescript kata",
   "scripts": {
     "lint:fix": "ts-standard --fix",
-    "test": "ts-standard && jest --watch"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
