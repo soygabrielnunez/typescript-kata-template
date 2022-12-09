@@ -1,10 +1,10 @@
 {
   "name": "typescript-kata-template",
   "version": "1.0.0",
-  "description": "the goal of this project is to provide a template for a typescript kata",
+  "description": "the goal of this project is to provide a template for typescript katas",
   "scripts": {
     "lint:fix": "ts-standard --fix",
-    "test": "vitest run"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "typescript",
     "template"
   ],
-  "author": "gnunez",
+  "author": "Gabrielnz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Gabrielnz/typescript-kata-template/issues"
