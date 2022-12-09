@@ -1,7 +1,0 @@
-{
-"compilerOptions": {
-    "isolatedModules": true,
-    "target": "es6",
-    "strictNullChecks": true,
-    }
-}
