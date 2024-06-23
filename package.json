@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "the goal of this project is to provide a template for typescript katas",
   "scripts": {
-    "lint:fix": "ts-standard --fix",
     "test": "vitest"
   },
   "repository": {
